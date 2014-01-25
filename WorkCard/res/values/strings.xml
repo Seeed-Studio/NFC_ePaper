@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WorkCard</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_send">SendActivity</string>
+    <string name="no_nfc">Your phone has no nfc.</string>
+    <string name="nfc_disabled">Your phone\'s nfc is disabled.</string>
+    
+</resources>
