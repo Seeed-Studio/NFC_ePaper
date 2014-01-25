@@ -3,8 +3,7 @@ NFC based ePaper WorkCard
 
 This is an android app for a nfc based epaper workcard.
 
-![image](http://www.seeedstudio.com/wiki/images/thumb/f/f7/Nfc_epaper_1.png/337px-Nfc_epaper_1.png)
-![image](http://www.seeedstudio.com/wiki/images/thumb/6/6a/Nfc_epaper_2.png/337px-Nfc_epaper_2.png)
+![image](http://www.seeedstudio.com/wiki/images/thumb/f/f7/Nfc_epaper_1.png/337px-Nfc_epaper_1.png) ![image](http://www.seeedstudio.com/wiki/images/thumb/6/6a/Nfc_epaper_2.png/337px-Nfc_epaper_2.png)
 
 
 ----
